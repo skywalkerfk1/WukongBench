@@ -9,7 +9,7 @@ namespace WukongBenchmarkRunner
 {
     class Program
     {
-        private const string GitHubRepositoryUrl = "";
+        private const string GitHubRepositoryUrl = "https://github.com/skywalkerfk1/WukongBench";
 
         // Абсолютный путь к файлу GameUserSettings.ini
         private const string CustomConfigPath = @"Вставьте сюда путь к GameUserSettings.ini";
