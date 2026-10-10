@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "System.Management": "11.0.0-rc.1.26425.128"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "System.CodeDom/11.0.0-rc.1.26425.128": {
+        "dependencies": {
+          "System.Memory": "4.6.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.CodeDom.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.42628"
+          }
+        }
+      },
+      "System.Management/11.0.0-rc.1.26425.128": {
+        "dependencies": {
+          "System.CodeDom": "11.0.0-rc.1.26425.128"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Management.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "11.0.26.42628"
+          }
+        }
+      },
+      "System.Memory/4.6.3": {}
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CodeDom/11.0.0-rc.1.26425.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A05HwrPX9zM8CGMHZnYx+WXZWj0ICQDbLxZQg2LhaBVf5iGqMh3LkMFpnbjClNPfBEsHs93gUg5diFmzjHPtfg==",
+      "path": "system.codedom/11.0.0-rc.1.26425.128",
+      "hashPath": "system.codedom.11.0.0-rc.1.26425.128.nupkg.sha512"
+    },
+    "System.Management/11.0.0-rc.1.26425.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ACmRBE2LwHzzf9Ks2Q5YMX7eWdrPIYven1iUbW7Tn65aEgCx9QuNxGhcBMx/K23hiUnk5DXEBshMRciht//edQ==",
+      "path": "system.management/11.0.0-rc.1.26425.128",
+      "hashPath": "system.management.11.0.0-rc.1.26425.128.nupkg.sha512"
+    },
+    "System.Memory/4.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qdcDOgnFZY40+Q9876JUHnlHu7bosOHX8XISRoH94fwk6hgaeQGSgfZd8srWRZNt5bV9ZW2TljcegDNxsf+96A==",
+      "path": "system.memory/4.6.3",
+      "hashPath": "system.memory.4.6.3.nupkg.sha512"
+    }
+  }
+}

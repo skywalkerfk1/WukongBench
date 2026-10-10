@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eil55s0fvdNHIYTM0Lk1pd3JDEvQ9q/3WwCWKSN6aaoLe9wWi5UbjelY5J+NhF6AmPTGg9SjtTn3okiKYKLVeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skywa\\Desktop\\аисд говна\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skywa\\.nuget\\packages\\system.codedom\\10.0.12\\system.codedom.10.0.12.nupkg.sha512",
+    "C:\\Users\\skywa\\.nuget\\packages\\system.management\\10.0.12\\system.management.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
